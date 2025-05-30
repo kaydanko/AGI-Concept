@@ -1,4 +1,4 @@
-I present to you the AGI architecture I developed
+I present to you the AGI architecture developed by me
 
 # AGI Consciousness Framework
 
